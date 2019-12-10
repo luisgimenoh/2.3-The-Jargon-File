@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    background-color:#C6E0EC;
+    font-size: large;
+}
+
+footer{
+    text-align: right;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+h2{
+    background-color: #4099BF;
+}
+
+h3{
+    color: #FFFFFF;
+    background-color: #79B8D2;
+}
+
+pre.tipo_sangrado{
+    background-color: white;
+}
+
+
+pre.cursiva{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+
